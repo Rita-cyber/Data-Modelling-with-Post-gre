@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1H2849vXHD21jaLYXurDNIBlVwttP5xUA
 
 The main purpose of this module is to let us create/drop all tables for
-Sparkify database.
+ritzy database.
 '''
 """
 
