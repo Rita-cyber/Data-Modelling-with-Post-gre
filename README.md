@@ -9,6 +9,8 @@ This is the repository for the Data modelling with Post-gre sql using the One mi
 
 To run the code below go to your specified directory and clone this repo:
 
+Note: The Postgresql database used here was a local host. In order to replicate the codes in this repository, you have to set up your own postgresql databse and use your databse parameters to connect to the database from the python scripts. Visit https://postgresql for more information on setting up your postgresql database.
+
 1.Download the required modules in the requirements.txt file.
 
 2.Running Data_Exploration.ipynb does data exploration on a secion of the One millions dataset.
